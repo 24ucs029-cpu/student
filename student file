@@ -1,0 +1,19 @@
+│
+├── README.md
+├── index.html
+├── style.css
+└── student.jpg
+
+index.html simple-ஆ:
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>My Student Portfolio</h1>
+<p>Name: Prince ronaldo</p>
+<p>Course: B.Sc Computer Science
