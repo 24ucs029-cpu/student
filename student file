@@ -17,3 +17,15 @@ index.html simple-ஆ:
 <h1>My Student Portfolio</h1>
 <p>Name: Prince ronaldo</p>
 <p>Course: B.Sc Computer Science</p>
+
+style.css:
+
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: purple;
+}
+
